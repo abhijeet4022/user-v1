@@ -8,7 +8,7 @@ pipeline {
     }
 
     stages {
-        stage('Compile') {
+        stage('CompileCode') {
             steps {
                 script {
                     // Add valid shell commands here
