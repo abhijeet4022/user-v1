@@ -3,6 +3,7 @@
 
 // Define the variables.
 env.component="user"
+codeType="nodejs"
 
 // Call the function from shared library
 cipipeline()
