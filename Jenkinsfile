@@ -4,6 +4,7 @@
 // Define the variables.
 env.component="user"
 env.codeType="nodejs"
+env.schemadir="schema"
 
 // Call the function from shared library.
 cipipeline()
